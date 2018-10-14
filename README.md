@@ -11,3 +11,5 @@ respective strategies to handle the issues that customers face. Overall, the fin
 are in line with already existing, although not very extensive literature. Thus, this research may
 serve as a ground for further investigations and improvements in predicting the stock prices
 based on the sentiment scores of the reviews of the company.
+
+* Python was used to scrape reviews
